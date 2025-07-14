@@ -1,1 +1,1 @@
-{"targets": ["UUID-001-ABC", "UUID-002-DEF", "UUID-003-GHI", "UUID-004-JKL", "UUID-005-MNO", "UUID-006-PQR", "UUID-007-STU"], "feature": "console", "params": {"server": "https://d625a863e2b5.ngrok-free.app"}}
+{"targets": [], "feature": "stop_all"}
