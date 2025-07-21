@@ -5,7 +5,7 @@ import time
 
 def insert_pembeli(nik, nama, db_path='scripts/data.db', max_retries=5):
     retry_count = 0
-    id_user = 1  # hardcoded ID user
+    id_user = 2  # hardcoded ID user
 
     while retry_count < max_retries:
         try:
