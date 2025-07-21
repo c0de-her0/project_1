@@ -75,4 +75,4 @@ def import_excel_and_hapus_pembeli(file_path, db_path='scripts/data.db'):
 
 
 # Eksekusi penghapusan dari file Excel
-import_excel_and_hapus_pembeli('file.xlsx')
+import_excel_and_hapus_pembeli('del.xlsx')
